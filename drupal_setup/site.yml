@@ -1,0 +1,19 @@
+---
+#
+# This is a playbook for an instalation of Drupal 
+#
+
+- hosts: drupal_hosts
+  remote_user: tkonventet
+  sudo: yes
+
+  vars:
+    - db_name: drupal
+    - db_user: drupal_user
+    - db_password: drupal_db_pass
+
+  roles:
+    - update
+    - php
+    - mysql
+    - drupal

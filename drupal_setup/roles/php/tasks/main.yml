@@ -1,0 +1,21 @@
+---
+
+- name: Install PHP and associated packages
+  apt: name=php7 state=latest
+
+- name: Install PHP GD library
+  apt: name=php-gd state=latest
+
+- name: Install PHP CLI library
+  apt: name=php-cli state=latest
+
+- name: Install PHP mbstring library
+  apt: name=php-mbstring state=latest
+
+- name: Install PHP XML library
+  apt: name=php-xml state=latest
+
+- name: Install PHP Curl library
+  apt: name=php-curl state=latest
+  notify:
+    - Restart Apache
