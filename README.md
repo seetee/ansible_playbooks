@@ -39,8 +39,8 @@ To use <project_name>, follow these steps:
 ```
 -->
 
-## Contributing to <project_name>
-To contribute to <project_name>, follow these steps:
+## Contributing to these Ansible playbooks
+To contribute to an Ansible playbook, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
