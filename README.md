@@ -12,11 +12,11 @@ This is a collection of ansible playbooks for installation of Drupal and other s
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-<!--- These are just example requirements. Add, duplicate or remove as required --->
 * You have installed the latest version of Ansible
 <!-- * You have a `<Windows/Linux/Mac>` machine. State which OS is supported/which is not.
 * You have read `<guide/link/documentation_related_to_project>`. -->
 
+<!-- 
 ## Installing <project_name>
 
 To install <project_name>, follow these steps:
@@ -37,11 +37,9 @@ To use <project_name>, follow these steps:
 ```
 <usage_example>
 ```
-
-Add run commands and examples you think users will find useful. Provide an options reference for bonus points!
+-->
 
 ## Contributing to <project_name>
-<!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute to <project_name>, follow these steps:
 
 1. Fork this repository.
@@ -65,4 +63,4 @@ If you want to contact me you can reach me on Twitter @alltinomit.
 
 ## License
 
-![Code License](https://img.shields.io/github/license/seetee/ansible_playbooks).
+![Code License](https://img.shields.io/github/license/seetee/ansible_playbooks)
