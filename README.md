@@ -1,10 +1,11 @@
 # Ansible Playbooks
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub repo size](https://img.shields.io/github/repo-size/seetee/ansible_playbooks.md)
-![GitHub contributors](https://img.shields.io/github/contributors/seetee/ansible_playbooks.md)
-![GitHub stars](https://img.shields.io/github/stars/seetee/ansible_playbooks.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/seetee/ansible_playbooks.md?style=social)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/seetee/ansible_playbooks)
+![GitHub repo size](https://img.shields.io/github/repo-size/seetee/ansible_playbooks)
+![GitHub release](https://img.shields.io/github/v/release/seetee/ansible_playbooks)
+![GitHub contributors](https://img.shields.io/github/contributors/seetee/ansible_playbooks)
 
 This is a collection of ansible playbooks for installation of Drupal and other such things.
 
@@ -64,4 +65,4 @@ If you want to contact me you can reach me on Twitter @alltinomit.
 
 ## License
 
-This project uses the following license: [<license_name>](<link>).
+![Code License](https://img.shields.io/github/license/seetee/ansible_playbooks).
