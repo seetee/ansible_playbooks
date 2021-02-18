@@ -1,10 +1,10 @@
 ---
 #
-# This is a playbook for an instalation of Drupal 
+# This is a playbook for an installation of Drupal 
 #
 
 - hosts: drupal_hosts
-  remote_user: tkonventet
+  remote_user: drupal
   sudo: yes
 
   vars:
